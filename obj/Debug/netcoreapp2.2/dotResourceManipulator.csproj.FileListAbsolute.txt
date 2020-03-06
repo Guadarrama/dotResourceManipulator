@@ -1,0 +1,11 @@
+C:\Users\Barron\Desktop\dotResourceManipulator\bin\Debug\netcoreapp2.2\dotResourceManipulator.deps.json
+C:\Users\Barron\Desktop\dotResourceManipulator\bin\Debug\netcoreapp2.2\dotResourceManipulator.runtimeconfig.json
+C:\Users\Barron\Desktop\dotResourceManipulator\bin\Debug\netcoreapp2.2\dotResourceManipulator.runtimeconfig.dev.json
+C:\Users\Barron\Desktop\dotResourceManipulator\bin\Debug\netcoreapp2.2\dotResourceManipulator.dll
+C:\Users\Barron\Desktop\dotResourceManipulator\bin\Debug\netcoreapp2.2\dotResourceManipulator.pdb
+C:\Users\Barron\Desktop\dotResourceManipulator\obj\Debug\netcoreapp2.2\dotResourceManipulator.csprojAssemblyReference.cache
+C:\Users\Barron\Desktop\dotResourceManipulator\obj\Debug\netcoreapp2.2\dotResourceManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Barron\Desktop\dotResourceManipulator\obj\Debug\netcoreapp2.2\dotResourceManipulator.AssemblyInfoInputs.cache
+C:\Users\Barron\Desktop\dotResourceManipulator\obj\Debug\netcoreapp2.2\dotResourceManipulator.AssemblyInfo.cs
+C:\Users\Barron\Desktop\dotResourceManipulator\obj\Debug\netcoreapp2.2\dotResourceManipulator.dll
+C:\Users\Barron\Desktop\dotResourceManipulator\obj\Debug\netcoreapp2.2\dotResourceManipulator.pdb
